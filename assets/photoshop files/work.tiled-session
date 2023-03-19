@@ -1,0 +1,64 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "tiles.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "32bit": {
+            "scaleInDock": 0.75
+        },
+        "about_me_tilesheet.png": {
+            "scaleInDock": 1
+        },
+        "home.tmx": {
+            "scale": 1.3254032258064516,
+            "selectedLayer": 13,
+            "viewCenter": {
+                "x": 248.22634621235167,
+                "y": 139.58016428354122
+            }
+        },
+        "schoolTiles": {
+            "scaleInDock": 1
+        },
+        "tiles.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 303.3333333333333,
+                "y": 332
+            }
+        },
+        "work": {
+            "scale": 2.1557692307692307,
+            "scaleInDock": 1,
+            "scaleInEditor": 1,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 215.9322033898305,
+                "y": 195.52185548617308
+            }
+        },
+        "work_roombuilder": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "/home/kaimac/Downloads/Modern_Office_Revamped",
+    "map.height": 13,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 13,
+    "openFiles": [
+        "home.tmx",
+        "tiles.tmx"
+    ],
+    "project": "work.tiled-project",
+    "recentFiles": [
+        "home.tmx",
+        "tiles.tmx",
+        "work"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
